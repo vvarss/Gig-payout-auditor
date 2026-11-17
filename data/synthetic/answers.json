@@ -1,0 +1,302 @@
+[
+  {
+    "file": "trip_01.png",
+    "error": "none",
+    "shown_total": 191.86,
+    "shown_trip_pay": 161.44,
+    "shown_return_pay": 30.42,
+    "km": 16.9,
+    "mins": 43,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_02.png",
+    "error": "none",
+    "shown_total": 69.83,
+    "shown_trip_pay": 69.83,
+    "shown_return_pay": null,
+    "km": 5.6,
+    "mins": 24,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_03.png",
+    "error": "total_mismatch_plus",
+    "shown_total": 130.83,
+    "shown_trip_pay": 120.83,
+    "shown_return_pay": null,
+    "km": 12.0,
+    "mins": 32,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_04.png",
+    "error": "none",
+    "shown_total": 192.76,
+    "shown_trip_pay": 163.96,
+    "shown_return_pay": 28.8,
+    "km": 16.0,
+    "mins": 55,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_05.png",
+    "error": "none",
+    "shown_total": 126.76,
+    "shown_trip_pay": 126.76,
+    "shown_return_pay": null,
+    "km": 11.9,
+    "mins": 38,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_06.png",
+    "error": "total_mismatch_minus",
+    "shown_total": 31.25,
+    "shown_trip_pay": 46.25,
+    "shown_return_pay": null,
+    "km": 2.6,
+    "mins": 18,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_07.png",
+    "error": "none",
+    "shown_total": 73.99,
+    "shown_trip_pay": 73.99,
+    "shown_return_pay": null,
+    "km": 6.0,
+    "mins": 27,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_08.png",
+    "error": "none",
+    "shown_total": 117.23,
+    "shown_trip_pay": 117.23,
+    "shown_return_pay": null,
+    "km": 11.0,
+    "mins": 35,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_09.png",
+    "error": "none",
+    "shown_total": 235.54,
+    "shown_trip_pay": 198.28,
+    "shown_return_pay": 37.26,
+    "km": 20.7,
+    "mins": 69,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_10.png",
+    "error": "missing_return_pay",
+    "shown_total": 221.85,
+    "shown_trip_pay": 221.85,
+    "shown_return_pay": null,
+    "km": 23.3,
+    "mins": 57,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_11.png",
+    "error": "none",
+    "shown_total": 193.44,
+    "shown_trip_pay": 163.92,
+    "shown_return_pay": 29.52,
+    "km": 16.4,
+    "mins": 60,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_12.png",
+    "error": "none",
+    "shown_total": 60.05,
+    "shown_trip_pay": 60.05,
+    "shown_return_pay": null,
+    "km": 4.1,
+    "mins": 19,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_13.png",
+    "error": "none",
+    "shown_total": 248.19,
+    "shown_trip_pay": 209.13,
+    "shown_return_pay": 39.06,
+    "km": 21.7,
+    "mins": 73,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_14.png",
+    "error": "none",
+    "shown_total": 194.4,
+    "shown_trip_pay": 164.16,
+    "shown_return_pay": 30.24,
+    "km": 16.8,
+    "mins": 49,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_15.png",
+    "error": "none",
+    "shown_total": 210.05,
+    "shown_trip_pay": 178.37,
+    "shown_return_pay": 31.68,
+    "km": 17.6,
+    "mins": 62,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_16.png",
+    "error": "none",
+    "shown_total": 184.65,
+    "shown_trip_pay": 155.49,
+    "shown_return_pay": 29.16,
+    "km": 16.2,
+    "mins": 43,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_17.png",
+    "error": "none",
+    "shown_total": 122.67,
+    "shown_trip_pay": 122.67,
+    "shown_return_pay": null,
+    "km": 11.0,
+    "mins": 47,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_18.png",
+    "error": "none",
+    "shown_total": 82.93,
+    "shown_trip_pay": 82.93,
+    "shown_return_pay": null,
+    "km": 7.4,
+    "mins": 22,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_19.png",
+    "error": "none",
+    "shown_total": 49.09,
+    "shown_trip_pay": 49.09,
+    "shown_return_pay": null,
+    "km": 3.2,
+    "mins": 16,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_20.png",
+    "error": "none",
+    "shown_total": 257.7,
+    "shown_trip_pay": 216.3,
+    "shown_return_pay": 41.4,
+    "km": 23.0,
+    "mins": 69,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_21.png",
+    "error": "none",
+    "shown_total": 143.99,
+    "shown_trip_pay": 143.99,
+    "shown_return_pay": null,
+    "km": 13.7,
+    "mins": 54,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_22.png",
+    "error": "low_rate",
+    "shown_total": 53.23,
+    "shown_trip_pay": 53.23,
+    "shown_return_pay": null,
+    "km": 8.5,
+    "mins": 32,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_23.png",
+    "error": "missing_return_pay",
+    "shown_total": 187.61,
+    "shown_trip_pay": 187.61,
+    "shown_return_pay": null,
+    "km": 19.3,
+    "mins": 60,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_24.png",
+    "error": "none",
+    "shown_total": 89.47,
+    "shown_trip_pay": 89.47,
+    "shown_return_pay": null,
+    "km": 7.4,
+    "mins": 35,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_25.png",
+    "error": "none",
+    "shown_total": 227.61,
+    "shown_trip_pay": 192.51,
+    "shown_return_pay": 35.1,
+    "km": 19.5,
+    "mins": 62,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_26.png",
+    "error": "none",
+    "shown_total": 229.45,
+    "shown_trip_pay": 192.91,
+    "shown_return_pay": 36.54,
+    "km": 20.3,
+    "mins": 55,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_27.png",
+    "error": "none",
+    "shown_total": 191.55,
+    "shown_trip_pay": 162.93,
+    "shown_return_pay": 28.62,
+    "km": 15.9,
+    "mins": 48,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_28.png",
+    "error": "none",
+    "shown_total": 245.9,
+    "shown_trip_pay": 206.48,
+    "shown_return_pay": 39.42,
+    "km": 21.9,
+    "mins": 50,
+    "should_have_return_pay": true
+  },
+  {
+    "file": "trip_29.png",
+    "error": "none",
+    "shown_total": 147.27,
+    "shown_trip_pay": 147.27,
+    "shown_return_pay": null,
+    "km": 14.6,
+    "mins": 48,
+    "should_have_return_pay": false
+  },
+  {
+    "file": "trip_30.png",
+    "error": "none",
+    "shown_total": 100.51,
+    "shown_trip_pay": 100.51,
+    "shown_return_pay": null,
+    "km": 9.1,
+    "mins": 24,
+    "should_have_return_pay": false
+  }
+]
