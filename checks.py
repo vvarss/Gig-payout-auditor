@@ -9,6 +9,7 @@ Three checks:
 Run:
   python checks.py             -> uses data/synthetic/answers.json (no API needed)
   python checks.py extracted   -> uses data/extracted.json (real Claude extraction)
+  python checks.py ocr         -> uses data/extracted_ocr.json (free OCR extraction)
 """
 import json
 import os
@@ -18,6 +19,7 @@ import pandas as pd
 
 ANSWERS_FILE = os.path.join("data", "synthetic", "answers.json")
 EXTRACTED_FILE = os.path.join("data", "extracted.json")
+OCR_FILE = os.path.join("data", "extracted_ocr.json")
 
 SUM_TOLERANCE = 0.05        # rupees; allows 1-paisa rounding differences
 RATE_DROP = 0.25            # flag if pay per km is 25% below the median
@@ -26,8 +28,8 @@ RATE_DROP = 0.25            # flag if pay per km is 25% below the median
 
 def load_trips(source="answers"):
     """Return a table with ONE ROW PER TRIP and the same column names either way."""
-    if source == "extracted":
-        with open(EXTRACTED_FILE, encoding="utf-8") as f:
+    if source in ("extracted", "ocr"):
+        with open(OCR_FILE if source == "ocr" else EXTRACTED_FILE, encoding="utf-8") as f:
             raw = json.load(f)
         rows = [{
             "file": name,
