@@ -6,7 +6,7 @@ This project is mainly used to check the rightful payment for each trip made by 
 The project is mainly designed to read the costs from the screenshots, calculate the cost and the inconsistencies, and draft a polite message to support. It flags the things worth asking about.It never claims anyone cheated.
 
 
-> Built by [Varshini S] as an individual project for the Touchcast India AI Solutions Architect internship assessment.
+> Built by Varshini S as an individual project for the Touchcast India AI Solutions Architect internship assessment.
 
 # The Problem
 Delivery riders get an earnings screen after every trip, but nobody checks a whole week for consistency: do the parts add up, was one trip paid far below the usual rate, did a long trip miss the return pay that similar trips got? Doing this by hand is slow and boring, so mistakes go unnoticed.
@@ -67,7 +67,7 @@ explain.py        explanation + draft message
 generate_data.py  synthetic screenshots + answers.json
 ```
  
-## Limits (honest)
+## Honest Limits
 - Tested on synthetic data and one real screenshot layout; real phone photos, glare and other apps' layouts are untested.
 - The OCR parser is tuned to this screen's labels. Other apps need label changes in `extract_ocr.py`.
 - Pay can legitimately vary (peak hours, pickup distance, incentives). A flag is a question to ask, not proof of an error.
