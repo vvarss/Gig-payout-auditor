@@ -73,7 +73,7 @@ estimate what's missing = usual_rate × km
 ## Run it (Windows, Python 3.12 or 3.13)
  
 ```powershell
-git clone [YOUR REPO LINK]
+git clone https://github.com/vvarss/Gig-payout-auditor
 cd gig-payout-auditor
 py -3.12 -m venv venv
 venv\Scripts\activate
