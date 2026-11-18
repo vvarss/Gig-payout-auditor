@@ -41,7 +41,14 @@ No real rider data is used. `generate_data.py` draws 30 fake trip screens from a
 | Harder test (NOISE = 0.08) | [FILL: what was caught / missed] |
  
 Reproduce: `python generate_data.py`, `python extract.py ocr`, `python checks.py ocr`.
- 
+
+## Formulae
+```
+trip pay   = (20 + 7.5 × km + 0.4 × minutes) × a random wobble of up to ±8%
+return pay = 1.80 × km, but only if the trip is 15 km or longer
+total      = trip pay + return pay
+```
+
 ## Run it (Windows, Python 3.12 or 3.13)
  
 ```powershell
