@@ -54,6 +54,21 @@ parts      = trip pay + return pay
 difference = total shown − parts
 flag if the difference is bigger than ₹0.05
 ```
+## Rate check
+```
+rate = trip pay ÷ km          (for every trip)
+typical = the median of all those rates
+flag if a trip's rate is below typical × 0.75    (25% below)
+```
+
+## Return-pay check
+```
+look at trips that got return pay
+shortest_km = the smallest distance among them          (about 15.9 km)
+usual_rate  = the median of (return pay ÷ km)           (about ₹1.80)
+flag any trip at or above shortest_km with no return pay
+estimate what's missing = usual_rate × km
+```
 
 ## Run it (Windows, Python 3.12 or 3.13)
  
