@@ -101,7 +101,7 @@ generate_data.py  synthetic screenshots + answers.json
 - Pay can legitimately vary (peak hours, pickup distance, incentives). A flag is a question to ask, not proof of an error.
 - The rate check needs roughly 8+ trips to be meaningful.
 ## Future work
-Weekly payout reconciliation, duplicate-trip detection, a regression on pay vs. distance and time, Tamil support in the template, a second screen layout (restaurant payouts).
+Weekly payout reconciliation, duplicate-trip detection, a regression on pay vs. distance and time, an additional language support in the template, a second screen layout (restaurant payouts).
  
 ## AI tools used
 - **Claude (chat):** [FILL: be specific, e.g. helped design the architecture, wrote the first versions of the scripts, helped debug install problems. Then list what YOU did: chose the problem, decided the checks, ran and tuned tests, made the commits.]
