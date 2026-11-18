@@ -1,210 +1,210 @@
 {
   "trip_01.png": {
-    "total_earnings": 191.86,
-    "trip_pay": 161.44,
+    "total_earnings": 187.68,
+    "trip_pay": 157.26,
     "long_distance_return_pay": 30.42,
     "distance_km": 16.9,
     "trip_time_mins": 43.0
   },
   "trip_02.png": {
-    "total_earnings": 69.83,
-    "trip_pay": 69.83,
+    "total_earnings": 66.87,
+    "trip_pay": 66.87,
     "long_distance_return_pay": null,
     "distance_km": 5.6,
     "trip_time_mins": 24.0
   },
   "trip_03.png": {
-    "total_earnings": 130.83,
-    "trip_pay": 120.83,
+    "total_earnings": 127.55,
+    "trip_pay": 117.55,
     "long_distance_return_pay": null,
     "distance_km": 12.0,
     "trip_time_mins": 32.0
   },
   "trip_04.png": {
-    "total_earnings": 192.76,
-    "trip_pay": 163.96,
+    "total_earnings": 196.02,
+    "trip_pay": 167.22,
     "long_distance_return_pay": 28.8,
     "distance_km": 16.0,
     "trip_time_mins": 55.0
   },
   "trip_05.png": {
-    "total_earnings": 126.76,
-    "trip_pay": 126.76,
+    "total_earnings": 130.61,
+    "trip_pay": 130.61,
     "long_distance_return_pay": null,
     "distance_km": 11.9,
     "trip_time_mins": 38.0
   },
   "trip_06.png": {
-    "total_earnings": 31.25,
-    "trip_pay": 46.25,
+    "total_earnings": 30.51,
+    "trip_pay": 45.51,
     "long_distance_return_pay": null,
     "distance_km": 2.6,
     "trip_time_mins": 18.0
   },
   "trip_07.png": {
-    "total_earnings": 73.99,
-    "trip_pay": 73.99,
+    "total_earnings": 70.98,
+    "trip_pay": 70.98,
     "long_distance_return_pay": null,
     "distance_km": 6.0,
     "trip_time_mins": 27.0
   },
   "trip_08.png": {
-    "total_earnings": 117.23,
-    "trip_pay": 117.23,
+    "total_earnings": 118.43,
+    "trip_pay": 118.43,
     "long_distance_return_pay": null,
     "distance_km": 11.0,
     "trip_time_mins": 35.0
   },
   "trip_09.png": {
-    "total_earnings": 235.54,
-    "trip_pay": 198.28,
+    "total_earnings": 227.93,
+    "trip_pay": 190.67,
     "long_distance_return_pay": 37.26,
     "distance_km": 20.7,
     "trip_time_mins": 69.0
   },
   "trip_10.png": {
-    "total_earnings": 221.85,
-    "trip_pay": 221.85,
+    "total_earnings": 229.02,
+    "trip_pay": 229.02,
     "long_distance_return_pay": null,
     "distance_km": 23.3,
     "trip_time_mins": 57.0
   },
   "trip_11.png": {
-    "total_earnings": 193.44,
-    "trip_pay": 163.92,
+    "total_earnings": 188.3,
+    "trip_pay": 158.78,
     "long_distance_return_pay": 29.52,
     "distance_km": 16.4,
     "trip_time_mins": 60.0
   },
   "trip_12.png": {
-    "total_earnings": 60.05,
-    "trip_pay": 60.05,
+    "total_earnings": 62.88,
+    "trip_pay": 62.88,
     "long_distance_return_pay": null,
     "distance_km": 4.1,
     "trip_time_mins": 19.0
   },
   "trip_13.png": {
-    "total_earnings": 248.19,
-    "trip_pay": 209.13,
+    "total_earnings": 243.48,
+    "trip_pay": 204.42,
     "long_distance_return_pay": 39.06,
     "distance_km": 21.7,
     "trip_time_mins": 73.0
   },
   "trip_14.png": {
-    "total_earnings": 194.4,
-    "trip_pay": 164.16,
+    "total_earnings": 192.01,
+    "trip_pay": 161.77,
     "long_distance_return_pay": 30.24,
     "distance_km": 16.8,
     "trip_time_mins": 49.0
   },
   "trip_15.png": {
-    "total_earnings": 210.05,
-    "trip_pay": 178.37,
+    "total_earnings": 212.67,
+    "trip_pay": 180.99,
     "long_distance_return_pay": 31.68,
     "distance_km": 17.6,
     "trip_time_mins": 62.0
   },
   "trip_16.png": {
-    "total_earnings": 184.65,
-    "trip_pay": 155.49,
+    "total_earnings": 179.31,
+    "trip_pay": 150.15,
     "long_distance_return_pay": 29.16,
     "distance_km": 16.2,
     "trip_time_mins": 43.0
   },
   "trip_17.png": {
-    "total_earnings": 122.67,
-    "trip_pay": 122.67,
+    "total_earnings": 124.95,
+    "trip_pay": 124.95,
     "long_distance_return_pay": null,
     "distance_km": 11.0,
     "trip_time_mins": 47.0
   },
   "trip_18.png": {
-    "total_earnings": 82.93,
-    "trip_pay": 82.93,
+    "total_earnings": 80.65,
+    "trip_pay": 80.65,
     "long_distance_return_pay": null,
     "distance_km": 7.4,
     "trip_time_mins": 22.0
   },
   "trip_19.png": {
-    "total_earnings": 49.09,
-    "trip_pay": 49.09,
+    "total_earnings": 46.9,
+    "trip_pay": 46.9,
     "long_distance_return_pay": null,
     "distance_km": 3.2,
     "trip_time_mins": 16.0
   },
   "trip_20.png": {
-    "total_earnings": 257.7,
-    "trip_pay": 216.3,
+    "total_earnings": 251.38,
+    "trip_pay": 209.98,
     "long_distance_return_pay": 41.4,
     "distance_km": 23.0,
     "trip_time_mins": 69.0
   },
   "trip_21.png": {
-    "total_earnings": 143.99,
-    "trip_pay": 143.99,
+    "total_earnings": 143.4,
+    "trip_pay": 143.4,
     "long_distance_return_pay": null,
     "distance_km": 13.7,
     "trip_time_mins": 54.0
   },
   "trip_22.png": {
-    "total_earnings": 53.23,
-    "trip_pay": 53.23,
+    "total_earnings": 53.43,
+    "trip_pay": 53.43,
     "long_distance_return_pay": null,
     "distance_km": 8.5,
     "trip_time_mins": 32.0
   },
   "trip_23.png": {
-    "total_earnings": 187.61,
-    "trip_pay": 187.61,
+    "total_earnings": 185.71,
+    "trip_pay": 185.71,
     "long_distance_return_pay": null,
     "distance_km": 19.3,
     "trip_time_mins": 60.0
   },
   "trip_24.png": {
-    "total_earnings": 89.47,
-    "trip_pay": 89.47,
+    "total_earnings": 89.41,
+    "trip_pay": 89.41,
     "long_distance_return_pay": null,
     "distance_km": 7.4,
     "trip_time_mins": 35.0
   },
   "trip_25.png": {
-    "total_earnings": 227.61,
-    "trip_pay": 192.51,
+    "total_earnings": 230.05,
+    "trip_pay": 194.95,
     "long_distance_return_pay": 35.1,
     "distance_km": 19.5,
     "trip_time_mins": 62.0
   },
   "trip_26.png": {
-    "total_earnings": 229.45,
-    "trip_pay": 192.91,
+    "total_earnings": 227.21,
+    "trip_pay": 190.67,
     "long_distance_return_pay": 36.54,
     "distance_km": 20.3,
     "trip_time_mins": 55.0
   },
   "trip_27.png": {
-    "total_earnings": 191.55,
-    "trip_pay": 162.93,
+    "total_earnings": 199.01,
+    "trip_pay": 170.39,
     "long_distance_return_pay": 28.62,
     "distance_km": 15.9,
     "trip_time_mins": 48.0
   },
   "trip_28.png": {
-    "total_earnings": 245.9,
-    "trip_pay": 206.48,
+    "total_earnings": 249.61,
+    "trip_pay": 210.19,
     "long_distance_return_pay": 39.42,
     "distance_km": 21.9,
     "trip_time_mins": 50.0
   },
   "trip_29.png": {
-    "total_earnings": 147.27,
-    "trip_pay": 147.27,
+    "total_earnings": 144.9,
+    "trip_pay": 144.9,
     "long_distance_return_pay": null,
     "distance_km": 14.6,
     "trip_time_mins": 48.0
   },
   "trip_30.png": {
-    "total_earnings": 100.51,
-    "trip_pay": 100.51,
+    "total_earnings": 104.95,
+    "trip_pay": 104.95,
     "long_distance_return_pay": null,
     "distance_km": 9.1,
     "trip_time_mins": 24.0

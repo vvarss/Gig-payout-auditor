@@ -26,7 +26,7 @@ PER_KM = 7.5
 PER_MIN = 0.4
 RETURN_RATE = 1.80             # rupees per km, only on long trips
 RETURN_MIN_KM = 15.0
-NOISE = 0.03                   # +-3% natural variation
+NOISE = 0.08                   # +-3% natural variation
 # ---------------------------------------------
 
 random.seed(SEED)
